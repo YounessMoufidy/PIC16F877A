@@ -12,7 +12,7 @@
 ## Test
 - The project has been tested using proteuse 8.
 
- !(C:\Users\pc\Desktop\Github images\PIC)
+ ![alt text](https://github.com/YounessMoufidy/PIC16F877A/blob/master/PIC_weather_station/PIC.png "PIC Weaher_station")
 
 
 
